@@ -8,7 +8,7 @@ public class ExtraClass {
 	
 	//ENEMY CHARACTERISTICS
 	final String[] boss= {"King Trump"};
-	final String[] enemies1= {"Orc", "Troll", "Goblin", "Assassin", "Enraged Goat" };
+	final String[] enemies1= {"Orc", "Troll", "Goblin", "Assassin", "Enraged Goat", "Hobo" };
 	final String[] enemies2= {"Dirty Magician", "Diddlin' Priest", "Sexy Preteen", "Legendary Weeaboo"};
 	int maxEnemyHealth= 175;
 	int maxAttackDamage= 60;
